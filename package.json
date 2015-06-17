@@ -1,0 +1,25 @@
+{
+  "name": "media-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottbarstow/media-manager.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottbarstow/media-manager/issues"
+  },
+  "homepage": "https://github.com/scottbarstow/media-manager",
+  "dependencies": {
+    "co": "^4.5.4",
+    "hapi": "^8.6.1",
+    "superagent": "^1.2.0",
+    "thenify-all": "^1.6.0"
+  }
+}
